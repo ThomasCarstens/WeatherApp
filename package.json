@@ -1,0 +1,17 @@
+{
+  "name": "vanilla",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-accuweather": "^1.7.0",
+    "regexp": "^1.0.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
